@@ -1,0 +1,11 @@
+	
+	Mobile app lab	
+	cycle 1
+
+1.Design an android application to print your name
+2.Design a login form with username and password using linear layout
+3.Create an android app that validate username and password using toast
+4.Create an android app that validate username and password and enter into a welcome window,use toast for login fail
+5.Write a program that demonstrate activity life cycle
+6.Implementing basic arithmetic operations of a simple calculator
+7.Implement validation on various UI controllers
